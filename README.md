@@ -1,6 +1,5 @@
 # Finance-Manager
-A simple Finance Manager Django application I made for my [youtube video]([https://](https://www.youtube.com/watch?v=kNn7Vqoog-o)https://www.youtube.com/watch?v=kNn7Vqoog-o)
-
+A simple Finance Manager Django application 
 #### Technologies used:
 - Python
 - Django
@@ -8,4 +7,5 @@ A simple Finance Manager Django application I made for my [youtube video]([https
 - HTML/CSS
 - Plotly Library
 
-Con
+
+
